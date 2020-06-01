@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: 'how would you react ? '
   choices:
-  - text: Rape
+  - text: Run
     conversation: {fileID: 11400000, guid: 1b4f6bb9f9bf8ce4bb4701824dfa8024, type: 2}
-  - text: Death
+  - text: Fight
     conversation: {fileID: 11400000, guid: aac4eb9c0ae021b4b8ecf0c8dd120821, type: 2}
-  - text: Fisting
+  - text: Silence
     conversation: {fileID: 11400000, guid: 89a8d1fb1f68ed74392a143012eb22fb, type: 2}

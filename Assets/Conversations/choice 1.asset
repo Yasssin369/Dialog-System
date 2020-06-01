@@ -16,6 +16,6 @@ MonoBehaviour:
   speakerRight: {fileID: 11400000, guid: 85aeff02d36327f41937f332ae17c4cc, type: 2}
   lines:
   - character: {fileID: 11400000, guid: 85aeff02d36327f41937f332ae17c4cc, type: 2}
-    text: Get Fucked Biaatch
+    text: You Cant Escape ME!!
   question: {fileID: 0}
   nextConversation: {fileID: 0}
